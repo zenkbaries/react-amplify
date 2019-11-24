@@ -2,9 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
+.App-logo-react {
   height: 40vmin;
 }
+
+
+.App-logo-amplify {
+  padding: 30px;
+  height:40vmin;
+}
+
 
 .App-header {
   background-color: #282c34;
